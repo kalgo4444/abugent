@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-`abugent-skills`: a Claude Code plugin containing only skills, and its own marketplace (`abugent`). There is no build step.
+`abugent`: a Claude Code plugin containing only skills, and its own marketplace (`abugent`). There is no build step.
 
 - `.claude-plugin/plugin.json`: plugin manifest. `skills` points at `skills/`.
 - `.claude-plugin/marketplace.json`: marketplace listing this repo (`source: "./"`) as the single plugin. Keep its name, description and keywords in sync with `plugin.json`.

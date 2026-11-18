@@ -3,12 +3,12 @@
 	"owner": {
 		"name": "Abdulaziz"
 	},
-	"description": "Abugent",
+	"description": "Skills for security audits, diagrams, decision-making, teaching, grilling and session handoff",
 	"plugins": [
 		{
-			"name": "abugent-skills",
+			"name": "abugent",
 			"source": "./",
-			"description": "Abugent",
+			"description": "Skills for security audits, diagrams, decision-making, teaching, grilling and session handoff",
 			"category": "engineering",
 			"keywords": [
 				"engineering",

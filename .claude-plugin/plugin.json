@@ -1,7 +1,7 @@
 {
-  "name": "abugent-skills",
-  "version": "1.0.0",
-  "description": "Abugent",
+  "name": "abugent",
+  "version": "1.1.0",
+  "description": "Skills for security audits, diagrams, decision-making, teaching, grilling and session handoff",
   "author": {
     "name": "Abdulaziz"
   },
@@ -15,5 +15,5 @@
     "grilling",
     "productivity"
   ],
-  "skills": "/skills"
+  "skills": "./skills"
 }

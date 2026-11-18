@@ -6,7 +6,7 @@ A Claude Code plugin of skills.
 
 ```
 /plugin marketplace add kalgo4444/abugent
-/plugin install abugent-skills@abugent
+/plugin install abugent@abugent
 ```
 
 ## Skills
@@ -20,15 +20,8 @@ A Claude Code plugin of skills.
 | `handoff`* | Compacts the conversation into a handoff doc for the next agent |
 | `teach`* | Teaches a skill or concept within the workspace |
 
-\* Manual only: run as `/abugent-skills:<name>`. The others also trigger automatically.
+\* Manual only: run as `/abugent:<name>`. The others also trigger automatically.
 
-## Development
-
-No build step. Each skill lives in `skills/<name>/SKILL.md`. Run tests with:
-
-```sh
-node --test skills/security-audit/*.test.cjs
-```
 
 ## License
 
