@@ -1,0 +1,22 @@
+{
+	"name": "abugent",
+	"owner": {
+		"name": "Abdulaziz"
+	},
+	"description": "Abugent",
+	"plugins": [
+		{
+			"name": "abugent-skills",
+			"source": "./",
+			"description": "Abugent",
+			"category": "engineering",
+			"keywords": [
+				"engineering",
+				"skills",
+				"code-review",
+				"grilling",
+				"productivity"
+			]
+		}
+	]
+}

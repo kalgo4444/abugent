@@ -1,0 +1,19 @@
+{
+  "name": "abugent-skills",
+  "version": "1.0.0",
+  "description": "Abugent",
+  "author": {
+    "name": "Abdulaziz"
+  },
+  "homepage": "https://github.com/kalgo4444/abugent",
+  "repository": "https://github.com/kalgo4444/abugent",
+  "license": "MIT",
+  "keywords": [
+    "engineering",
+    "skills",
+    "code-review",
+    "grilling",
+    "productivity"
+  ],
+  "skills": "/skills"
+}
