@@ -1,0 +1,18 @@
+{
+  "name": "abugent",
+  "version": "3.0.0",
+  "description": "Skills for security audits, diagrams, decision-making, teaching, grilling and session handoff",
+  "type": "module",
+  "main": ".opencode/plugins/abugent.js",
+  "author": "Abdulaziz",
+  "license": "MIT",
+  "homepage": "https://github.com/kalgo4444/abugent",
+  "repository": "https://github.com/kalgo4444/abugent",
+  "keywords": [
+    "opencode",
+    "skills",
+    "code-review",
+    "grilling",
+    "productivity"
+  ]
+}
