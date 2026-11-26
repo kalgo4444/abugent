@@ -1,0 +1,20 @@
+{
+	"name": "abugent",
+	"owner": {
+		"name": "kalgo4444"
+	},
+	"description": "Abugent skills",
+	"plugins": [
+		{
+			"name": "abugent",
+			"source": "./",
+			"description": "Abugent",
+			"category": "engineering",
+			"keywords": [
+				"engineering",
+				"skills",
+				"productivity"
+			]
+		}
+	]
+}

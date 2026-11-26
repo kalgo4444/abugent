@@ -1,0 +1,17 @@
+{
+	"name": "abugent",
+	"version": "1.0.0",
+	"description": "Abugent",
+	"author": {
+		"name": "kalgo4444"
+	},
+	"homepage": "https://github.com/kalgo4444/abugent",
+	"repository": "https://github.com/kalgo4444/abugent",
+	"license": "MIT",
+	"keywords": [
+		"engineering",
+		"skills",
+		"productivity"
+	],
+	"skills": "./skills"
+}
