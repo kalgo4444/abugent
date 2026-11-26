@@ -1,7 +1,7 @@
 {
 	"name": "abugent",
 	"version": "1.0.0",
-	"description": "Abugent",
+	"description": "Skills for diagrams, emails, decisions, Markdown conversion and security audits.",
 	"author": {
 		"name": "kalgo4444"
 	},

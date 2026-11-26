@@ -3,12 +3,12 @@
 	"owner": {
 		"name": "kalgo4444"
 	},
-	"description": "Abugent skills",
+	"description": "Skills for diagrams, emails, decisions, Markdown conversion and security audits.",
 	"plugins": [
 		{
 			"name": "abugent",
 			"source": "./",
-			"description": "Abugent",
+			"description": "Skills for diagrams, emails, decisions, Markdown conversion and security audits.",
 			"category": "engineering",
 			"keywords": [
 				"engineering",
